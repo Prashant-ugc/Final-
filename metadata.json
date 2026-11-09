@@ -1,0 +1,6 @@
+{
+  "name": "Apex Detailing & Ceramic Studio",
+  "description": "Dublin's 5-star supercar valeting, multi-stage paint correction, 9H ceramic coating, and self-healing PPF studio with instant online quote calculator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
